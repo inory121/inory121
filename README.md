@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <p>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inory121&layout=compact" />
-	<img src="https://inory.oss-cn-shanghai.aliyuncs.com/Just.Be.Friends.full.3181640.gif" align="center" />
+	<img src="https://inory.oss-cn-shanghai.aliyuncs.com/Just.Be.Friends.full.3181640.gif" align="right" />
 </p>
 	<img width="600" height="400" src="https://github-widgetbox.vercel.app/api/skills?languages=js,java,python,html,css,c,bash,xml,json,yaml,mysql,solidity,sass,markdown" />
 
