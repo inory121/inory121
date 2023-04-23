@@ -15,12 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div style="display: flex;justify-content: space-around;padding: auto;">
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inory121&layout=compact" />
-			<img src="https://inory.oss-cn-shanghai.aliyuncs.com/Just.Be.Friends.full.3181640.gif" />
-			
-		</div>
-		
-		<div> 
-			<img width="600" height="400"
-				src="https://github-widgetbox.vercel.app/api/skills?languages=js,java,python,html,css,c,bash,xml,json,yaml,mysql,solidity,sass,markdown" />
-		</div>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inory121&layout=compact" />
+	<img src="https://inory.oss-cn-shanghai.aliyuncs.com/Just.Be.Friends.full.3181640.gif" /></div>
+<div>
+	<img width="600" height="400" src="https://github-widgetbox.vercel.app/api/skills?languages=js,java,python,html,css,c,bash,xml,json,yaml,mysql,solidity,sass,markdown" />
+</div>
