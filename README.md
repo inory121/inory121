@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inory121&layout=compact"  width="40%"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inory121&layout=compact"  width="50%"/>
 	<img src="https://inory.oss-cn-shanghai.aliyuncs.com/Just.Be.Friends.full.3181640.gif" align="right"  width="50%"/>
 </div>
 
