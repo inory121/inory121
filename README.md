@@ -25,7 +25,7 @@
 
 ### 
 - [基于区块链的食品溯源系统(前端)](https://github.com/inory121/food-trace-frontend)&nbsp;&nbsp;[基于区块链的食品溯源系统(后端)](https://github.com/inory121/food-trace-backend)
-- [基于微服务开发的仿哔哩哔哩网站前端](https://github.com/inory121/hirihiri-frontend)&nbsp;&nbsp;[基于微服务开发的仿哔哩哔哩网站后端](https://github.com/inory121/hirihiri-backend)(进度20%)
+- [基于微服务开发的仿哔哩哔哩网站前端](https://github.com/inory121/hirihiri-frontend)&nbsp;&nbsp;[基于微服务开发的仿哔哩哔哩网站后端](https://github.com/inory121/hirihiri-backend)
 - [自用油猴脚本](https://github.com/inory121/tamperscript)
 - [给朋友写的爬虫](https://github.com/inory121/textbook-spider)
 - [一个exposed模块](https://github.com/inory121/FuckDDVip)(断更已失效)
